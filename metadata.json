@@ -1,0 +1,8 @@
+{
+  "name": "Remix Numstoria — Historia y matemáticas en juego",
+  "description": "Juego de mesa editorial y manipulables matemáticos interactivos de nivel medio superior sobre cuatro civilizaciones antiguas: Mayas, Mesopotamia y Egipto, Grecia y Roma, y China Suanzi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
